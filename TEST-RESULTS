@@ -1,6 +1,6 @@
 Kalkulator ne podrzava operacije:
 -koji su napisane sa malim pocetnim slovom za beskoncno (infinity+1);
 -gde nije unet pocetni broj za operacije deljenja i mnozenj (*3+2; /3+2);
--bilo koje operacije gde je drugi broj je (2*-2);
+-gde je drugi broj negativan (2*-2);
 
 Kalkulator nema definisana pravila za dupliranje operacija (2++2).
